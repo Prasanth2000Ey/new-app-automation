@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="New App automation">c32bac01976511103b453d400153af57</applet_launcher>
+        <icon display_value="Home New App automation">cb2bac01976511103b453d400153af58</icon>
+        <label>New App automation</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 11:10:57</sys_created_on>
+        <sys_id>8b2bac01976511103b453d400153af58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New App automation</sys_name>
+        <sys_package display_value="New App automation" source="2b9a68cd972511103b453d400153af8a">2b9a68cd972511103b453d400153af8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New App automation">2b9a68cd972511103b453d400153af8a</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_8b2bac01976511103b453d400153af58</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 11:10:57</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

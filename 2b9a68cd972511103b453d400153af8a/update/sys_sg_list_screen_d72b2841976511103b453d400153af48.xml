@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> Task SLA</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">872bac01976511103b453d400153af56</icon>
+        <name>Task SLAs</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 11:10:58</sys_created_on>
+        <sys_id>d72b2841976511103b453d400153af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task SLAs</sys_name>
+        <sys_package display_value="New App automation" source="2b9a68cd972511103b453d400153af8a">2b9a68cd972511103b453d400153af8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New App automation">2b9a68cd972511103b453d400153af8a</sys_scope>
+        <sys_update_name>sys_sg_list_screen_d72b2841976511103b453d400153af48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 11:10:58</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d72b2841976511103b453d400153af48"/>
+</record_update>
